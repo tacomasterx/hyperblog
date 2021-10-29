@@ -12,7 +12,7 @@ body
     color: white;
     font-weight: bold;
     margin: 0;
-    padding: 0.5em;
+    padding: 0.8em;
 }
 
 #cabecera #logo
@@ -52,8 +52,9 @@ body
 
 #footer
 {
-    background: #37488b;
+    background: #999;
     color: white;
     text-align: center;
-    padding: 0.5em;
+    margin: 0;
+    padding: 0.1em;
 }
